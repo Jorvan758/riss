@@ -8,7 +8,7 @@ SCRIPT_DIR="$(dirname $0)"
 # Global parameters
 INPUT=""
 COPROCESSOR_EXTRA_ARGS=""
-COPROCESSOR="$SCRIPT_DIR/../build/bin/coprocessor"
+COPROCESSOR="$SCRIPT_DIR/coprocessor"
 OUTPUT_LOCATION=""
 DEBUG=""
 AWK="awk"
