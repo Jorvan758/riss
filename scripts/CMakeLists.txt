@@ -4,7 +4,8 @@ project(scripts)
 
 set(SCRIPTS
     astyle.sh
-    cp.sh)
+    cp.sh
+    coprocessor-for-modelcounting.sh)
 
 add_custom_target(scripts)
 
